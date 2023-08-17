@@ -60,6 +60,6 @@
 <br clear="both">
 
 ![Snake animation]
-(https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/Josemarii26/blob/output/github-contribution-grid-snake.svg)
 
 ###
