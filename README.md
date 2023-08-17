@@ -57,11 +57,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Josemarii26/Josemarii26/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **Josemarii26/Josemarii26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
