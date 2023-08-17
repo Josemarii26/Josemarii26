@@ -59,7 +59,4 @@
 
 <br clear="both">
 
-![Snake animation]
-(https://github.com/Josemarii26/Josemarii26/blob/output/github-contribution-grid-snake.svg)
 
-###
