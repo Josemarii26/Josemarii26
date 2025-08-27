@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I often inform myself about tech fields</p>
+<p align="left">- 🔭 I’m working as developer<br>- 📚 I'm currently mastering React<br>- ⚡ In my free time I often inform myself about tech fields</p>
 
 ###
 
